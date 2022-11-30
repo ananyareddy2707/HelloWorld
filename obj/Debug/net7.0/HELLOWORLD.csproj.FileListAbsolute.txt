@@ -1,0 +1,15 @@
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.csproj.AssemblyReference.cache
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.AssemblyInfoInputs.cache
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.AssemblyInfo.cs
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.csproj.CoreCompileInputs.cache
+/Users/Ananyareddy/Desktop/HELLOWORLD/bin/Debug/net7.0/HELLOWORLD
+/Users/Ananyareddy/Desktop/HELLOWORLD/bin/Debug/net7.0/HELLOWORLD.deps.json
+/Users/Ananyareddy/Desktop/HELLOWORLD/bin/Debug/net7.0/HELLOWORLD.runtimeconfig.json
+/Users/Ananyareddy/Desktop/HELLOWORLD/bin/Debug/net7.0/HELLOWORLD.dll
+/Users/Ananyareddy/Desktop/HELLOWORLD/bin/Debug/net7.0/HELLOWORLD.pdb
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.dll
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/refint/HELLOWORLD.dll
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.pdb
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/HELLOWORLD.genruntimeconfig.cache
+/Users/Ananyareddy/Desktop/HELLOWORLD/obj/Debug/net7.0/ref/HELLOWORLD.dll
